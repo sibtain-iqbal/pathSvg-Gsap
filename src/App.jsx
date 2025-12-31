@@ -6,6 +6,9 @@ function App() {
     <>
 
       <SvgPath/>
+      <SvgPath/>
+      <SvgPath/>
+      <SvgPath/>
       
     </>
   );
